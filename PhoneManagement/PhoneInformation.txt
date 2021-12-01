@@ -1,0 +1,10 @@
+SM-A125F/DS;MediaTek Helio P35 8 nhân;4;48;6.5;3450000;blue;Samsung
+SM-G996B/DS;Vi xử lý Exynos 2100 (5nm);8;12;6.7;19990000;black;Samsung
+SM-G998B/DS;Vi xử lý Exynos 2100 (5nm);12;108;6.8;24990000;silver;Samsung
+SM-A725F/DS;Vi xử lý 8 nhân Snapdragon 720G;8;64;6.7;10490000;white;Samsung
+SM-A525F/DS;Vi xử lý 8 nhân Snapdragon 720G;8;64;6.5;7990000;purple;Samsung
+MGMT3VN/A;Apple A14 Bionic;6;12;6.1;29990000;blue;Apple
+MGDC3VN/A;Apple A14 Bionic;6;12;6.7;33490000;gray;Apple
+RENO5;Qualcomm Snapdragon 720G;8;64;6.43;7890000;silver;Oppo
+NOKIA5.4;Qualcomm® Snapdragon™ 662;4;48;6.39;3690000;blue;Nokia
+RMC11;MediaTek Helio G35;2;13;6.5;2390000;gray;Realme
